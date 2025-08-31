@@ -1,4 +1,4 @@
-package org.prosallo.prosallo;
+package org.prosallo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
