@@ -4,7 +4,7 @@ plugins {
 }
 
 dependencies {
-    implementation project(':prosallo-core')
+    implementation project(':core')
     implementation 'org.liquibase:liquibase-core'
     runtimeOnly 'org.postgresql:postgresql'
 }

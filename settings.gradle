@@ -1,4 +1,4 @@
 rootProject.name = 'prosallo'
 
-include ':prosallo-identity'
-include ':prosallo-core'
+include ':identity'
+include ':core'
